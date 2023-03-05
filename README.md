@@ -45,7 +45,7 @@ Recordemos que un falso positivo no es tan preocupante como un falso negativo, y
 Sin embargo, un falso negativo puede llevar a que el cáncer se desarrolle sin supervisión durante más tiempo del necesario y podría llevar a daños más graves o incluso la muerte de la paciente.
 Teniendo esto en cuenta, desarrolla un modelo que funcione lo mejor posible y explica qué decisiones has tomado en su elaboración y por que.
 
-##Información de atributos:
+## Información de atributos:
 
 1) Número de identificación
 2) Diagnóstico (M = maligno, B = benigno)
