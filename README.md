@@ -23,11 +23,11 @@ j) dimensión fractal ("aproximación a la línea de costa" - 1)
 
 ## Tabla de contenidos
 1. [Información General](#general-info)
-2. [Technologies](#technologies)
+2. [Tecnología](#technologies)
 3. [Installation](#installation)
 4. [Collaboration](#collaboration)
 5. [FAQs](#faqs)
-### General Info
+### Información General
 ***
 El cáncer de seno (mama) se origina cuando las células mamarias comienzan a crecer sin control. Las células cancerosas del seno normalmente forman un tumor que a menudo se puede observar en una radiografía o se puede palpar como una masa o bulto.
 Es importante que sepa que la mayoría de los bultos en los senos son benignos y no cancerosos (malignos). Los tumores no cancerosos de los senos (benignos) son crecimientos anormales, pero no se propagan fuera de los senos. Estos tumores no representan un peligro para la vida, aunque algunos tipos de bultos benignos pueden aumentar el riesgo de una mujer de padecer cáncer de seno. Cualquier bulto o cambio en el seno debe ser examinado por un profesional de atención médica para saber si es benigno o maligno (cáncer), y si podría afectar su riesgo futuro de padecer cáncer. 
@@ -43,12 +43,12 @@ Los cánceres de seno pueden originarse en diferentes partes del seno.
 
 ### Screenshot
 ![Image text](https://colon15.com/wp-content/uploads/2019/08/sintomas-iniciales-cancer-mama.jpg)
-## Technologies
+## Tecnología
 ***
 A list of technologies used within the project:
-* [Technologie name](https://example.com): Version 12.3 
-* [Technologie name](https://example.com): Version 2.34
-* [Library name](https://example.com): Version 1234
+* [Python](https://www.python.org/): Version 3.8.6
+* [VSC](https://code.visualstudio.com/)
+* [Jupyter Notebook](https://jupyter.org/)
 ## Installation
 ***
 A little intro about the installation. 
