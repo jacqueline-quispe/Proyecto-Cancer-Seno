@@ -9,7 +9,7 @@
 1. [Información General](#general-info)
 2. [Tecnología](#technologies)
 3. [Desarrollo](#installation)
-4. [Enlaces de interes](#collaboration)
+4. [Enlaces de interés](#collaboration)
 
 
 ### Información General
@@ -38,6 +38,7 @@ Los programas utilizados son:
 
 
 ## Desarrollo
+***
 Supongamos que usted trabaja en el servicio de salud y recibe muestras que provienen de mujeres con cáncer de mama.
 Los médicos han extraído características y las han anotado, el trabajo es crear un modelo que sea capaz de identificar si un paciente tiene o no cáncer.
 Recordemos que un falso positivo no es tan preocupante como un falso negativo, ya que en el futuro se le hacen más pruebas a las pacientes y hay oportunidades de descubrir que estábamos en un error.
@@ -85,6 +86,7 @@ El notebook es:
 https://github.com/jacqueline-quispe/Proyecto-de-c-ncer/blob/main/PROYECTO%20C%C3%81NCER%20DE%20SENO.ipynb
 
 ## Conclusión.
+***
 
 En el modelo KNN tenemos un error de train de 7.07% y de test de 7.68%, en cuanto a la matriz de confusión tenemos que este modelo predijo correctamente 142 casos de cancer benignos y 279 malignos, los falsos negativos que nos da el modelo es de 27 casos.
 
@@ -94,7 +96,7 @@ El modelo Boosting tenemos un error de train de 9.73% y de test de 10.96%, en cu
 
 El modelo Boosting es el que mejor predice la base de datos del cáncer. Debido a que otorga solo 20 casos falsos negativos.
 
-## Enlaces de interes
+## Enlaces de interés
 ***
 * https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data
 * https://interactivechaos.com/es/manual/tutorial-de-machine-learning/clasificadores-svm-en-scikit-learn
