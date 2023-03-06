@@ -53,14 +53,23 @@ Teniendo esto en cuenta, desarrolla un modelo que funcione lo mejor posible y ex
 Se calculan diez características de valor real para cada núcleo celular:
 
 a) radio (media de las distancias desde el centro hasta los puntos del perímetro)
+
 b) textura (desviación estándar de los valores de la escala de grises)
+
 c) perímetro
+
 d) área
+
 e) uniformidad (variación local en las longitudes de los radios)
+
 f) compacidad (perímetro^2 / área - 1,0)
+
 g) concavidad (severidad de las partes cóncavas del contorno)
+
 h ) puntos cóncavos (número de porciones cóncavas del contorno)
+
 i) simetría
+
 j) dimensión fractal ("aproximación a la línea de costa" - 1)
 
 Los modelo usados para la predicción son: 
